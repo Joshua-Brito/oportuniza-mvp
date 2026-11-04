@@ -51,7 +51,7 @@ https://lnkd.in/dETbbNDE
 https://lnkd.in/diMungTz
 
 📑 Slide Deck do Projeto 
-https://lnkd.in/dBD3YH-A
+https://lnkd.in/dakk4ycm
 
 📁 Pasta com Documentação Completa (Google Drive) 
 https://lnkd.in/dN5jME5G
