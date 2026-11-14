@@ -54,7 +54,7 @@ Toda a base documental e estratégica de negócio foi rigorosamente mapeada. Ace
 | Asset | Descrição | Link |
 | :--- | :--- | :--- |
 | 🎨 **Protótipo** | Telas de alta fidelidade e fluxos de navegação | [Acessar Figma](#) |
-| 🎥 **Pitch em Vídeo** | Apresentação gravada pela equipe | [Assistir no YouTube](#) |
+| 🎥 **Pitch em Vídeo** | Apresentação gravada pela equipe | [Assistir no Link](#) |
 | 📑 **Slide Deck** | Apresentação oficial (PDF/Apresentações) | [Ver Slides](#) |
 | 📁 **Base Documental** | Personas, Lean Canvas, CSD, Prompts | [Acessar Drive](#) |
 
@@ -74,15 +74,6 @@ Projeto desenvolvido de forma colaborativa por uma equipe multidisciplinar fant�
 - **Wilton:** Suporte estratégico, Documentação e apoio em Vídeo.
 
 ---
-
-## 🚀 Próximos Passos (Roadmap)
-
-- [x] Imersão e Validação do Problema.
-- [x] Construção da Documentação Ágil (Lean Canvas, CSD, Personas).
-- [x] Prototipação de Alta Fidelidade (Figma).
-- [x] Defesa de MVP no Porto Digital.
-- [ ] **[Fase Atual]** Início da estruturação do código base (Frontend Mobile-First).
-- [ ] Integração de IA via fluxos de backend.
 
 <br>
 
